@@ -20,7 +20,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babyazalea&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
-<div style="display:flex; gap: 0.5rem; justify-content: flex-end; font-size: 0.1rem;">
+<div style="display:flex; gap: 0.5rem; justify-content: flex-end;">
 <div>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=plastic&logo=Gmail&logoColor=white)](mailto:usun16@gmail.com)
