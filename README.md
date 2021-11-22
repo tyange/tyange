@@ -2,8 +2,10 @@
 
 - 프론트엔드 개발자에요.
 - 2018년, 웹디자인을 배우다가 개발을 시작하게 되었습니다.
-- 매일 사이드 프로젝트를 개발합니다. <a style="font-size: 0.9rem" href="https://babyazalea.notion.site/babyazalea-s-SIDE-PROJECT-039cc81c1b774b05aa19f082fe569a36">프로젝트 리스트</a>
-- https://babyazalea.gatsbyjs.io (GatsbyJS 기반으로 열심히 제작 중인 홈페이지입니다!)
+- 매일 사이드 프로젝트를 개발합니다 👉 <a style="font-size: 0.9rem; margin-left: 0.5rem;" href="https://babyazalea.notion.site/babyazalea-s-SIDE-PROJECT-039cc81c1b774b05aa19f082fe569a36">프로젝트 리스트</a>
+- https://babyazalea.gatsbyjs.io (GatsbyJS 기반으로 열심히 제작 중인 저의 홈페이지입니다!)
+- 아래는 저의 기술 스택입니다.
+
 
 #### Languages
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
