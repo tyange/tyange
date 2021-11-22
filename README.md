@@ -20,7 +20,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babyazalea&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
-<div style="text-align: right;">
+<div align=right>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=plastic&logo=Gmail&logoColor=white)](mailto:usun16@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/babyazalea/)
 
