@@ -18,3 +18,19 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babyazalea&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+
+<div style="display:flex; gap: 0.5rem; justify-content: flex-end; font-size: 0.1rem;">
+
+<div>
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=plastic&logo=Gmail&logoColor=white)](mailto:usun16@gmail.com)
+
+</div>
+<div>
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/babyazalea/)
+
+</div>
+
+</div>
