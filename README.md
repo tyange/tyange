@@ -3,8 +3,8 @@
 - 프론트엔드 개발자에요.
 - 2018년, 웹디자인을 배우다가 개발을 시작하게 되었습니다.
 - 매일 사이드 프로젝트를 개발합니다 👉 <a style="font-size: 0.9rem; margin-left: 0.5rem;" href="https://tyange.notion.site/tyange-s-SIDE-PROJECT-039cc81c1b774b05aa19f082fe569a36">프로젝트 리스트</a>
-- 블로그: https:/tyange.gatsbyjs.io
-- CV & 포트폴리오 : https://time-to-grow-up.vercel.app/
+- 블로그: [https:/tyange.gatsbyjs.io](https:/tyange.gatsbyjs.io)
+- CV & 포트폴리오 : [https://time-to-grow-up.vercel.app/](https://time-to-grow-up.vercel.app/)
 
 
 
