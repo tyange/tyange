@@ -1,1 +1,1 @@
-- CV & 포트폴리오 : [https://one-of-the-best-yet.vercel.app/](https://one-of-the-best-yet.vercel.app/)
+- Online CV: [https://time-to-grow-up.vercel.app/](https://time-to-grow-up.vercel.app/)
